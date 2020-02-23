@@ -1,0 +1,37 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    height: 50px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-indicators li{
+    height: 8px;
+    background-color: orange;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;  
+}
+.see-all{
+    color: darkred;
+    text-align: right;
+    padding-top: 10px ;
+}
+.see-all a, a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
